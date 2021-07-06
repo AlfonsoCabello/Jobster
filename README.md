@@ -6,7 +6,8 @@ Sophie Courtemanche-Martel - [![GitHub Badge](https://img.shields.io/badge/GitHu
 
 Jake Hogan - [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/hoganj15)
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+[![](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<blue>)]
+
 <br> 
 
 # Jobster
