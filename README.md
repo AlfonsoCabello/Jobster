@@ -1,4 +1,7 @@
-This project was a team effort where I got to work with these awesome people - duncan-wang
+This project was a team effort where I got to work with these awesome people:
+
+<br> 
+Duncan Wang
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/duncan-wang)
 
 <br> 
