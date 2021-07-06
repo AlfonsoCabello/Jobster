@@ -27,6 +27,12 @@ Contents:
 2. Preprocessing - grab resumes
 3. Preprocessing - cleaning, tokenization, lemmatization, etc.
 4. Task 1. Top jobs for user: Similarity scoring
+
+<p align="center"><img src="https://github.com/AlfonsoCabello/Jobster/blob/main/task1_jobster.PNG" style="max-width:100%;"></p>
+
 5. Task 2: User fit-to industry or job: Topic modeling using LDA
+
+<p align="center"><img src="https://github.com/AlfonsoCabello/Jobster/blob/main/task2_jobster.PNG" style="max-width:100%;"></p>
+
 6. Demo
 7. Clustering
