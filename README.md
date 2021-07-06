@@ -38,16 +38,13 @@ Use Inverse-Document Frequency to cluster jobs together to present a condensed v
 6. Demo
 7. Clustering
 8. Limitations
-
-  * Cost of web scraping tools (i.e. SerpAPI)
-  * Blockers on LinkedIn 
-  * Time to scrape
-  * Ability to scrape complex pages
-  * Measuring importance of “buzzwords” in various industries
-
+   * Cost of web scraping tools (i.e. SerpAPI)
+   * Blockers on LinkedIn 
+   * Time to scrape
+   * Ability to scrape complex pages
+   * Measuring importance of “buzzwords” in various industries
 9. Improvements
-
-  * Increasing scope of stopwords to include words which aren’t very useful on a resume (i.e. “hard-working”)
-  * Multiple resume formats (Word, PDF)
-  * LARAM vs LDA
-  * LDAvis embedded and interpreted reports automation for further user insights 
+   * Increasing scope of stopwords to include words which aren’t very useful on a resume (i.e. “hard-working”)
+   * Multiple resume formats (Word, PDF)
+   * LARAM vs LDA
+   * LDAvis embedded and interpreted reports automation for further user insights 
