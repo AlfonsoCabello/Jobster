@@ -1,12 +1,10 @@
 This project was a team effort where I got to work with these awesome people:
  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/duncan-wang) - Duncan Wang
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Duncan Wang-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/duncan-wang)
 
-Sophie Courtemanche-Martel - [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/scmartel)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Sophie Courtemanche-Martel-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/scmartel)
 
-Jake Hogan - [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/hoganj15)
-
-[![](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<blue>)]
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Jake Hogan-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/hoganj15)
 
 <br> 
 
