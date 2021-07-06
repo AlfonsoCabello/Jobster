@@ -22,7 +22,8 @@ To do so, our project will allow a job seeker to input their resume and a target
 Match users to postings they are most qualified for based on the similarity scoring between their resume and a job description
 Use topic modeling (LDA) to identify key "themes", representing requirements or ideal traits an industry or role is looking for, and use similarity scoring to assess a user's fit to top requirements in that industry or role.
 Use Inverse-Document Frequency to cluster jobs together to present a condensed view of what an industry looks like, and present what the top requirements of each cluster of companies is.
-Contents:
+
+## Contents (ipynb):
 1. Preprocessing - grab job descriptions
 2. Preprocessing - grab resumes
 3. Preprocessing - cleaning, tokenization, lemmatization, etc.
@@ -36,3 +37,17 @@ Contents:
 
 6. Demo
 7. Clustering
+8. Limitations
+
+  -Cost of web scraping tools (i.e. SerpAPI)
+  -Blockers on LinkedIn 
+  -Time to scrape
+  -Ability to scrape complex pages
+  -Measuring importance of “buzzwords” in various industries
+
+9. Improvements
+
+  -Increasing scope of stopwords to include words which aren’t very useful on a resume (i.e. “hard-working”)
+  -Multiple resume formats (Word, PDF)
+  -LARAM vs LDA
+  -LDAvis embedded and interpreted reports automation for further user insights 
