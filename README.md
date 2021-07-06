@@ -1,3 +1,6 @@
+# Jobster
+
+## Contributors
 This project was a team effort where I got to work with these awesome people:
 
 Duncan Wang<br> 
@@ -10,8 +13,6 @@ Jake Hogan<br>
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/hoganj15)
 
 <br> 
-
-# Jobster
 
 ## Objective:
 
