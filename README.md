@@ -1,19 +1,5 @@
 # Jobster
 
-## Contributors
-This project was a team effort where I got to work with these awesome people:
-
-Duncan Wang<br> 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/duncan-wang)
-
-Sophie Courtemanche-Martel<br>
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/scmartel)
-
-Jake Hogan<br>
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/hoganj15)
-
-<br> 
-
 ## Objective:
 
 Nowadays, landing your dream job can be more difficult than ever. Companies are increasingly relying on automated technologies to process prospective applicants, and with the rise of Applicant Tracking Systems (ATS) which filter and rank applicants by their fit to a job posting, it is estimated that 75% of resumes never even reach the hands of a recruiter. The objective of this project is to simplify the application process for job seekers, help them identify which jobs to target, and to increase their chances of bypassing ATS systems and landing their ideal role.
@@ -49,3 +35,20 @@ Use Inverse-Document Frequency to cluster jobs together to present a condensed v
    * Multiple resume formats (Word, PDF)
    * LARAM vs LDA
    * LDAvis embedded and interpreted reports automation for further user insights 
+
+## Contributors
+This project was a team effort where I got to work with these awesome people:
+
+Alfonso Cabello<br> 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/AlfonsoCabello)
+
+Duncan Wang<br> 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/duncan-wang)
+
+Sophie Courtemanche-Martel<br>
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/scmartel)
+
+Jake Hogan<br>
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/hoganj15)
+
+<br> 
